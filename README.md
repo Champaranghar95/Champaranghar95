@@ -11,8 +11,9 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="coding-gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding-gif">
 </div>
+
 
 ### 🖥️ Professional Summary
 Experienced Full Stack Developer with a passion for creating efficient, user-friendly web applications and implementing secure digital solutions. Skilled in languages like **C**, **C++**, and **Python**, with experience in both **Web and Network Penetration Testing** to ensure robust security.
